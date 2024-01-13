@@ -17,3 +17,5 @@ Obsahuje:
 * Hafo
 * Cigáň počíta
 * a viac
+
+Ak sa vám toto páči tak dajte mi pls hviezdičku
