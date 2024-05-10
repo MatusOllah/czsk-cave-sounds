@@ -14,7 +14,7 @@ Obsahuje:
 * One time next time
 * Pigi čaj
 * Dám si pepsi
-* Hafo
+* Motorku
 * Cigáň počíta
 * a viac
 
